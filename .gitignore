@@ -1,1 +1,10 @@
 node_modules
+src/templates
+src/fonts
+src/img
+src/svg
+src/js
+!src/js/index.js
+README.txt
+src/scss
+!src/scss/_pincode.scss
